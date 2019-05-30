@@ -1,0 +1,19 @@
+{
+  "name": "ts-project-doc-generating",
+  "version": "0.0.1",
+  "description": "TypeScript project documentation generating from source code example",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sedlakr/ts-project-doc-generating.git"
+  },
+  "author": "sedlak.r@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sedlakr/ts-project-doc-generating/issues"
+  },
+  "homepage": "https://github.com/sedlakr/ts-project-doc-generating#readme"
+}
